@@ -21,4 +21,3 @@ const superHeroe: SuperHeroe = {
 cost direccion = superHeroe.mostrarDireccion();
 console.log( direccion );
 
-console.log(superHeroe)
